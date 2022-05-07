@@ -1,6 +1,10 @@
 # elder-forest
 
-### Elder Forest is a *interactive fiction/choose your own adventure* game, designed to play in web browser.
+[mksawka.github.io/elder-forest](https://mksawka.github.io/elder-forest)
+
+---
+
+### Elder Forest is an *interactive fiction/choose your own adventure* game, designed to play in web browser.
 
 **This is the first prototype.**
 
